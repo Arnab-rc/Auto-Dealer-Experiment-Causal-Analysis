@@ -65,8 +65,9 @@ Requirements: Python 3, `pandas`, `numpy`, `scipy`, `statsmodels`,
 
 ## Repository contents
 
-- `car_service_ab_testing_causal_impact.ipynb`: analysis notebook
-- `reports/`: project report and one-page decision memo (add as .docx)
+- `car_service_ab_testing_causal_impact (1).ipynb`: analysis notebook
+- `Experiment_Design_Document.pdf`: experiment design document
+- `One-Page Decision Memo Enhanced Service Quality Checks Pilot.pdf`: one-page decision memo
 
 ## Limitations
 
